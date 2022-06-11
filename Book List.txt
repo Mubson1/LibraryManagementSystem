@@ -1,0 +1,10 @@
+101	Naruto	Masashi Kishimoto	20	2
+102	One piece	Eiichiro Oda	25	4
+103	MHA	Kohei Horikoshi	17	1
+104	Dr.Stone	Riichiro Inagaki	17	2
+105	Haikyuu	Haruichi Furudate	15	3
+106	Dororo	Osamu Tezuka	19	1
+107	Goth	Kendi Oiwa	14	1
+108	Berserk	Kentaro Miura	18	2
+109	Vagabond	Takehiko Inoue	22	3
+110	Chobits	Nanase Ohkawa	17	4
